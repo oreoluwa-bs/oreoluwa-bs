@@ -6,7 +6,7 @@
 - 🤔 I’m looking for work
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=dark&hide=contribs,issues'>
+<img src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=light&hide=contribs,issues'>
 <br>
 
 <!--
