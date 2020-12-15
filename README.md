@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on something confidential 
 - 🌱 I’m currently learning ReactJS, GraphQL and FLutter
+- 📚 I’m currently reading Head First Java and Clean Code Architecture
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for work
 
