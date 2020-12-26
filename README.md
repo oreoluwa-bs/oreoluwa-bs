@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS, GraphQL and FLutter
 - 📚 I’m currently reading Head First Java and Clean Code
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for work
+- 🤔 I’m looking for projects to work on
 
 <br>
 <img src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=dark&hide=contribs,issues'>
