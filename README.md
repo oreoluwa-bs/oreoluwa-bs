@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on something confidential 
-- 🌱 I’m currently learning Creative development, GraphQL and Flutter
-- 📚 I’m currently reading Head First Java and Clean Code
+- 🌱 I’m currently learning Creative development, React Native and Flutter
+- 📚 I’m currently reading Head First Java, Clean Code and Learning Patterns
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for projects to work on
+<!-- - 🤔 I’m looking for projects to work on -->
 
 <br />
 <img class="center" src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=dark&hide=contribs,issues' alt="oreoluwa-bs" />
