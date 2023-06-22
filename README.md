@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on something confidential 
-- 🌱 I’m currently learning Creative development, React Native and Flutter
+- 🌱 I’m currently learning Creative development, Go and Laravel
 - 📚 I’m currently reading Head First Java, Clean Code and Learning Patterns
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 🤔 I’m looking for projects to work on -->
