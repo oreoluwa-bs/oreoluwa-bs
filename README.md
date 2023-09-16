@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for projects to work on -->
 
 <br />
-<img class="center" src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=dark&hide=contribs,issues' alt="oreoluwa-bs" />
+<img class="center" src='https://github-readme-stats.vercel.app/api?username=oreoluwa-bs&count_private=true&show_icons=true&theme=dark&hide=' alt="oreoluwa-bs" />
 <br />
 
 <!--
